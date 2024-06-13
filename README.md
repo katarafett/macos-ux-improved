@@ -6,8 +6,8 @@ What it does:
 - Remaps shift+backspace to delete forward
 
 ## How to use
-It's pretty simple. Just run `./install.sh`. You might need to
-`chmod +x install.sh` first. Don't run it as sudo, or the config files will only
+It's pretty simple. Just execute `install.sh`. You might need to
+`chmod +x` the file first. Don't run it as sudo, or the config files will only
 apply to root user.
 
 ## Tools
