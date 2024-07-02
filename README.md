@@ -51,3 +51,10 @@ Installation (with brew):
 ```zsh
 brew install --cask karabiner-elements
 ```
+
+## UX settings I use that I don't want to track down again
+
+Disable Dock (hides it for 1000 seconds):
+```zsh
+defaults write com.apple.dock autohide-delay -float 1000; killall Dock
+```
